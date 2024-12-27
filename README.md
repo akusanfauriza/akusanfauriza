@@ -7,8 +7,8 @@ Welcome to my GitHub profile!
 
 ## About Me 🌟  
 - 🎓 **Currently learning**: Backend development and data science (mostly backend).  
-- 💻 **Skills**: Python, Node.js, SQL, and a bit of machine learning.  
-- 🌱 **Hobbies**: Building cool projects, exploring new technologies, and watching retro anime!  
+- 💻 **Skills**: Never Enough of Skills.  
+- 🌱 **Hobbies**: Explore anything!  
 
 ---
 
