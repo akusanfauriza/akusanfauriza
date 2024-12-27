@@ -1,6 +1,4 @@
-# Hi there! 👋  
-Welcome to my GitHub profile!  
-
+# Halooo 👋
 ![Anime Retro GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
@@ -13,16 +11,9 @@ Welcome to my GitHub profile!
 ---
 
 ## My GitHub Stats 📊  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+Didnt know how to make a GitHub Stats    
 
 ---
 
-## Let's Connect 🤝  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Github&logoColor=white)](https://yourportfolio.com)  
-
----
-
-> _"Keep coding, keep learning, and always stay curious."_  
+> _"Singkat saja...... Paham !??"_  
 
