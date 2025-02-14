@@ -15,4 +15,4 @@ Didnt know how to make a GitHub Stats
 
 ---
 
-> _"Singkat saja...... Paham !??"_  
+> _
